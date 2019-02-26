@@ -1,0 +1,2 @@
+function cactus(locX, locY) {
+}
